@@ -5,18 +5,9 @@
         "package": "AWSSDKSwiftCore",
         "repositoryURL": "https://github.com/noppoMan/aws-sdk-swift-core.git",
         "state": {
-          "branch": null,
-          "revision": "d5182811d91b0870cd4352b0bcf2560bdc509838",
-          "version": "1.0.6"
-        }
-      },
-      {
-        "package": "CHTTPParser",
-        "repositoryURL": "https://github.com/Zewo/CHTTPParser.git",
-        "state": {
-          "branch": null,
-          "revision": "88306ab33bb316b2eedd39c90f4be8f4ebf65a11",
-          "version": "0.14.0"
+          "branch": "experimental-branch",
+          "revision": "66b3c0cdb45a7749a00dd22d6a49415aa390bc8d",
+          "version": null
         }
       },
       {
@@ -41,9 +32,9 @@
         "package": "Prorsum",
         "repositoryURL": "https://github.com/noppoMan/Prorsum.git",
         "state": {
-          "branch": null,
-          "revision": "4e5af67f5eb24ef050b38913ce5804071adfdf47",
-          "version": "0.3.0"
+          "branch": "chttpparser-as-internal-module",
+          "revision": "fb71ebed3335f911230bbb5a230b525946135527",
+          "version": null
         }
       },
       {
