@@ -6,7 +6,7 @@
         "repositoryURL": "https://github.com/GetBlast/aws-sdk-swift-core.git",
         "state": {
           "branch": "support_iam_roles_for_ecs_tasks",
-          "revision": "81ea2eba447f3fa93ef326fc2472193f34156043",
+          "revision": "e0104e3a2107cceb8984fec58da7ce244e57368c",
           "version": null
         }
       },
@@ -39,11 +39,11 @@
       },
       {
         "package": "Prorsum",
-        "repositoryURL": "https://github.com/noppoMan/Prorsum.git",
+        "repositoryURL": "https://github.com/GetBlast/Prorsum.git",
         "state": {
-          "branch": null,
-          "revision": "c1bbe27eedf53121237854b3aa393237a4e973fe",
-          "version": "0.3.2"
+          "branch": "55_request_uri",
+          "revision": "6519a8c067bc74909e6a0a68b8d530f3cac18eb7",
+          "version": null
         }
       },
       {
