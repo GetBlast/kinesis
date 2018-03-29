@@ -8,7 +8,7 @@ let package = Package(
       .library(name: "SwiftAWSKinesis", targets: ["SwiftAWSKinesis"]),
   ],
   dependencies: [
-      .package(url: "https://github.com/noppoMan/aws-sdk-swift-core.git", .upToNextMajor(from: "1.0.0"))
+      .package(url: "https://github.com/GetBlast/aws-sdk-swift-core.git", .branch("master"))
   ],
   targets: [
       .target(name: "SwiftAWSKinesis", dependencies: ["AWSSDKSwiftCore"]),

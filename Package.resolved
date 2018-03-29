@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "AWSSDKSwiftCore",
-        "repositoryURL": "https://github.com/noppoMan/aws-sdk-swift-core.git",
+        "repositoryURL": "https://github.com/GetBlast/aws-sdk-swift-core.git",
         "state": {
-          "branch": null,
-          "revision": "d5182811d91b0870cd4352b0bcf2560bdc509838",
-          "version": "1.0.6"
+          "branch": "master",
+          "revision": "a968c2f3231e40cc3faec51bd8e716e99dc44ee5",
+          "version": null
         }
       },
       {
@@ -42,8 +42,8 @@
         "repositoryURL": "https://github.com/noppoMan/Prorsum.git",
         "state": {
           "branch": null,
-          "revision": "4e5af67f5eb24ef050b38913ce5804071adfdf47",
-          "version": "0.3.0"
+          "revision": "b278e88142a3b5a87feabc44b6522dabfcda8f99",
+          "version": "0.3.3"
         }
       },
       {
@@ -51,8 +51,8 @@
         "repositoryURL": "https://github.com/noppoman/ProrsumNet.git",
         "state": {
           "branch": null,
-          "revision": "627eb273db4c37791aacd78ae8aef4da30f95bcb",
-          "version": "0.1.2"
+          "revision": "941e0c65df620467130e9eb2496a3c1275c1d307",
+          "version": "0.1.3"
         }
       }
     ]
