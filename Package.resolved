@@ -6,7 +6,7 @@
         "repositoryURL": "https://github.com/GetBlast/aws-sdk-swift-core.git",
         "state": {
           "branch": "swift-nio",
-          "revision": "a3ae2f6263dd3204ae84961df3576d03fed51742",
+          "revision": "7caaa61a4d7f226083f372f41b070efdee9d4392",
           "version": null
         }
       },
